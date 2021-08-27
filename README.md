@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm **Juanes** from Colombia 🇨🇴 ☕️
+
+Working in: 
+- 🧬  &nbsp;Cancer Bioinformatics 
+- 🚧  &nbsp;Data Engineering 
+- 👨🏻‍💻  &nbsp;Software Development     
 <!--
 **juanesarango/juanesarango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Juanes Arango's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanesarango&custom_title=Juanes%27%20Github%20Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true)

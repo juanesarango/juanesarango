@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm **Juanes** from _Colombia_ 🇨🇴  ☕️ 💐 💃🏽
+I'm **Juanes** from _Colombia_ 🇨🇴 
 
-Working in: 
+Working at [@papaemmelab](https://github.com/papaemmelab) in [@mskcc](https://www.mskcc.org) in: 
 - 🧬  &nbsp;Cancer Bioinformatics 
 - 🚧  &nbsp;Data Engineering 
 - 👨🏻‍💻  &nbsp;Software Development

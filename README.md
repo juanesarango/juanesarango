@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Juanes Arango's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanesarango&custom_title=Juanes%27%20Github%20Stats&show_icons=true&count_private=true&include_all_commits=true)
--->
 
 ![Juanes Arango's GitHub stats](https://github-readme-stats-juanes.vercel.app/api?username=juanesarango&custom_title=Juanes%27%20Github%20Stats&show_icons=true&count_private=true&include_all_commits=true)
+
+-->
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanesarango&langs_count=10&layout=compact&hide=html,jupyter%20notebook)

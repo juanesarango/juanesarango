@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Juanes Arango's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanesarango&custom_title=Juanes%27%20Github%20Stats&show_icons=true&count_private=true&include_all_commits=true)
-
-
 -->
+
+<!-- Deployed my own vercel instance -->
 ![Juanes Arango's GitHub stats](https://github-readme-stats-juanes.vercel.app/api?username=juanesarango&custom_title=Juanes%27%20Github%20Stats&show_icons=true&count_private=true&include_all_commits=true)
 
 
